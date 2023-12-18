@@ -11,7 +11,6 @@ import (
 	"strconv"
 	"strings"
 	"time"
-
 	"github.com/FloatTech/floatbox/binary"
 	"github.com/FloatTech/floatbox/file"
 	"github.com/FloatTech/floatbox/web"
