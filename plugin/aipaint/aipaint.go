@@ -20,7 +20,6 @@ import (
 	zero "github.com/wdvxdr1123/ZeroBot"
 	"github.com/wdvxdr1123/ZeroBot/message"
 )
-
 var (
 	datapath  string
 	predictRe = regexp.MustCompile(`{"steps".+?}`)
